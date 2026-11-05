@@ -1,0 +1,24 @@
+node_modules
+.DS_Store
+dist
+demo_web
+roll-manage
+dist-ssr
+tests
+*.local
+src/App111.vue
+src/mains.ts
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.local
+src/views-rbac/table-text
+src/views-demo/text-md
+package-copy.json
+package-lock.json
+yarn.lock
+node_modules.zip
